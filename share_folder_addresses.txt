@@ -1,5 +1,23 @@
-LANGUAGE
+LANGUAGE (박영진 사내교수)
 \\swschoolavdazfiles002.file.core.windows.net\aias-language
+https://buly.kr/APwNnqf
+https://github.com/heury/llm_hands_on
 
-VISION
+VISION ()
 \\swschoolavdazfiles002.file.core.windows.net\aias-vision
+https://buly.kr/Aar8me8
+https://drive.google.com/drive/folders/1w0ODi-lwhAxkxyKCbZsHQqRTWeZbhAJx
+
+
+Ondevice (신동군 교수, 성균관대)
+https://buly.kr/Gvn51j9
+https://drive.google.com/drive/folders/1GZRDpshMbKn6f46Wdoj204tXMi4dOrcQ
+
+Data 모델의 이해 (유재민 교수, 서울대)
+https://buly.kr/C0BCZzg
+https://drive.google.com/drive/folders/1DxTxEB1ZzbrIS5Z2RlXSiCjpxj_Xsj3B
+
+LLM Application (한욱신 교수, Postech)
+https://buly.kr/GZy518l
+https://drive.google.com/drive/folders/11U4K6EXDvAytR6QNGXM6Lb5Yl8JCg92Y
+
